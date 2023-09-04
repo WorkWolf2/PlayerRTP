@@ -14,7 +14,6 @@ public final class PlayerRTP extends JavaPlugin {
         Logger.log(Logger.LogLevel.INFO, "Commands are loading...");
         registerCommands(this);
         Logger.log(Logger.LogLevel.INFO, "Commands are loaded!");
-        Logger.log(Logger.LogLevel.SUCCESS, "Connessione al database riuscita!");
         Logger.log(Logger.LogLevel.SUCCESS, "The plugin has loaded correctly!");
         Logger.log(Logger.LogLevel.OUTLINE, "*********************");
         }
